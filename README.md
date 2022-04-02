@@ -22,16 +22,16 @@ apk add curl bash
 
 - ### (centos、ubuntu、debian、alpine)一键开启SSH
 ```sh
-bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/shidahuilang/pve/main/ssh.sh)"
+bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/czkds/pve/main/ssh.sh)"
 ```
 ---
 - ### PVE一键开启换源，去掉订阅
 ```sh
-bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/shidahuilang/pve/main/pvehy.sh)"
+bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/czkds/pve/main/pvehy.sh)"
 ```
 - ### PVE一键可视化脚本
 ```sh
-bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/shidahuilang/pve/main/PVEauto.sh)"
+bash -c  "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/czkds/pve/main/PVEauto.sh)"
 ```
 
 - ### PVE升级系统
